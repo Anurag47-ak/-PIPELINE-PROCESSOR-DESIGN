@@ -148,6 +148,10 @@ The simulation successfully demonstrated the parallelism and pipelining efficien
 
 Output1-
 
+  ![Image](https://github.com/user-attachments/assets/7a35d4a2-45c0-41fa-acab-5d18ffa9bbce)
+
+Output2-
+
   
 
 Learning and Performance Insight:
