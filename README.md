@@ -152,7 +152,7 @@ Output1-
 
 Output2-
 
-  
+  ![Image](https://github.com/user-attachments/assets/0b98554d-c70c-4165-820d-d0343667c9b2)
 
 Learning and Performance Insight:
 Throughout the project, I learned the importance of instruction synchronization, hazard management (conceptually), and the use of pipeline registers to isolate each stage. Although this basic processor doesn't implement advanced features like forwarding or hazard detection, it provides a strong foundation for further exploration in computer architecture.
